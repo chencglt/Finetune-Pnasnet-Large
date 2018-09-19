@@ -8,7 +8,7 @@ This project is based on TF-Slim, and used is for training and testing classifie
 
 
 1. Run the script  "./scripts/download_dataset_checkpoint.sh" in the root directry of this project. It will download the flowers dataset and checkpoint files os PNASNet
-2. Start training training:
+2. Start training:
 
 	$ python train_image_classifier.py
 
