@@ -1,0 +1,6 @@
+*.pyc
+*__pycache_*
+*.tar.gz
+train
+eval
+checkpoint
