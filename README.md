@@ -1,4 +1,4 @@
-# Finetune classification models using TF-slim
+# Finetune Pnasnet-Large
 
 This project is based on TF-Slim, and used is for training and testing classifier using PNASNet model.
 
@@ -15,6 +15,5 @@ This project is based on TF-Slim, and used is for training and testing classifie
 3. Evaluate the model:
 
 	$ python eval_image_classifier.py
-
 
 
